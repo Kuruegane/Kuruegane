@@ -1,16 +1,36 @@
-### Hi there 👋
+Hello everyone 👋🏾!
 
-<!--
-**Kuruegane/Kuruegane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 I'm a Front-End developer and I'm always willing to learn new things!
 
-Here are some ideas to get you started:
+📕 Programming is solving problems (bugs), finding unthinkable solutions for certain situations. In the programming I find the combination of two things I love, helping people and solving problems!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ We can find different ways to see things, just be calm and attentive. 
+
+## Back-end development languages
+- MySQL/Databases
+- NoSQL (Learning)
+- Java 
+
+## Front-end development languages
+- JavaScript (Learn)
+- HTML/CSS
+
+##Favorite Languages
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kuruegane&show_icons=true&theme=default" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruegane&layout=compact)](https://github.com/Kuruegane/github-readme-stats" />
+</div>
+
+
+
+## Social Media
+<div>
+  <a href = "mailto: ghfb145@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-henrique-freitas-batista-82014a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+

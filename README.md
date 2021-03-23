@@ -21,8 +21,10 @@ Hello everyone 👋🏾!
   </div>
 <br>
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kuruegane&show_icons=true&theme=default" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruegane&layout=compact)](https://github.com/Kuruegane/github-readme-stats" />
+##Favorite Languages
+
+- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Kuruegane&show_icons=true&theme=default" />
+- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruegane&layout=compact)](https://github.com/Kuruegane/github-readme-stats" />
 </div>
 
 

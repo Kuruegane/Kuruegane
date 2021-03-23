@@ -21,7 +21,7 @@ Hello everyone 👋🏾!
 <br>
 
 ## Front-end development languages
-- JavaScript (Learn)
+- JavaScript (Learning)
 - HTML
 - CSS3
 <div style="display: inline_block"><br>

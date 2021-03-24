@@ -8,7 +8,7 @@ Hello everyone 👋🏾!
 
 ## Back-end development languages
 - MySQL
-- NoSQL (Learning)
+- MongoDb (Learning)
 - Java 
 - Python (Learning)
 

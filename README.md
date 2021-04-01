@@ -33,8 +33,8 @@ Hello everyone 👋🏾!
 
 ## Favorite Languages
 <div style="display:flex;flex-wrap:no-wrap;">
- <img height="163px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kuruegane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="163px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuruegane&layout=compact&langs_count=8&theme=midnight-purple"/>
+ <img height="167px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kuruegane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="167px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kuruegane&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 

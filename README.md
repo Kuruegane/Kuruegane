@@ -1,6 +1,6 @@
 Hello everyone 👋🏾!!
 
-📘 I'm a Front-End developer and I'm always willing to learn new things!
+📘 I'm a Front-End developer and I'm always willing to learn new things! 
 
 📕 Programming is solving problems (bugs), finding unthinkable solutions for certain situations. In the programming I find the combination of two things I love, helping people and solving problems!
 

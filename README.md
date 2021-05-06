@@ -11,7 +11,7 @@ Hello everyone 👋🏾!!
 - MongoDb (Learning)
 - Java 
 - Python (Learning)
-- SpringBoot (Learning)
+- SpringBoot 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">

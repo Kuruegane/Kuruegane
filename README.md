@@ -12,6 +12,7 @@ Hello everyone 👋🏾!!
 - Java 
 - SpringBoot 
 - Python (Learning)
+- Node (Learning)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -19,6 +20,7 @@ Hello everyone 👋🏾!!
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Gabriel-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   </div>
 <br>
 

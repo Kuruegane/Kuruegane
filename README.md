@@ -1,4 +1,4 @@
-Hello everyone 👋🏾!!
+Hello everyone 👋🏾!!!
 
 📘 I'm a Front-End developer and I'm always willing to learn new things! 
 
@@ -6,7 +6,7 @@ Hello everyone 👋🏾!!
 
 ✨ We can find different ways to see things, just be calm and attentive. 
 
-## Back-end development languages 
+## Back-end development Languages 
 - MySQL
 - MongoDb (Learning)
 - Java 
@@ -24,7 +24,7 @@ Hello everyone 👋🏾!!
   </div>
 <br>
 
-## Front-end development languages
+## Front-end development Languages
 - JavaScript 
 - HTML
 - CSS3

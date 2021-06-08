@@ -10,9 +10,9 @@ Hello everyone 👋🏾!!
 - MySQL
 - MongoDb (Learning)
 - Java 
-- SpringBoot 
 - Python (Learning)
 - Node (Learning)
+- Vue (Learning)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">

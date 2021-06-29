@@ -8,7 +8,7 @@ Hello everyone 👋🏾!!!
 
 ## Back-end development Languages 
 - MySQL
-- MongoDb (Learning)
+- MongoDb 
 - Java 
 - NodeJs 
 - VueJs 

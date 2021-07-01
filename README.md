@@ -9,8 +9,7 @@ Hello everyone 👋🏾!!!
 ## Back-end development Languages 
 - MySQL
 - MongoDb 
-- Java 
-- VueJs 
+- Java  
 - NodeJs 
 
 <div style="display: inline_block"><br>

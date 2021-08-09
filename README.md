@@ -20,7 +20,7 @@ Hello everyone 👋🏾!!!
 
 ## Front-end development Languages
 - JavaScript 
-- HTML
+- HTML5
 - CSS3
 - VueJs
 <div style="display: inline_block"><br>

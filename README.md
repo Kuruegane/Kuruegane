@@ -6,7 +6,7 @@ Hello everyone 👋🏾!!!
 
 ✨ We can find different ways to see things, just be calm and attentive. 
 
-## Back-end development Languages 
+## Back-end Development Languages 
 - MySQL
 - MongoDb 
 - JavaScript
@@ -20,7 +20,7 @@ Hello everyone 👋🏾!!!
   </div>
 <br>
 
-## Front-end development Languages
+## Front-end Development Languages
 - JavaScript 
 - HTML5
 - CSS3

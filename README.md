@@ -22,7 +22,7 @@ I belive we can code our dreams into reality.
 ## Back-end Development Languages 
 - MySQL
 - JavaScript
-- Ruby on Rails (Learning)  
+- Ruby (Learning)  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">

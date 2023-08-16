@@ -30,8 +30,3 @@ I belive we can code our dreams into reality.
   <img align="center" alt="Gabriel-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   </div>
 <br>
-
-## Status
-<div style="display:flex;flex-wrap:no-wrap;">
-<img height="163em" src="https://github-readme-stats.vercel.app/api?username=Kuruegane&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
